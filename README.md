@@ -1,6 +1,14 @@
 # BlueSkys
 
+
+
 2 line Bronx to NY. 
+
+
+Not an agent not registered if effecting the following [securities are exempt,have a registration exemption, free solicitation as an existing employee, clerical and administrative work, doesn't effect securities transactions with the public]
+
+MaxLefal interaction to retain opportunity as unregistered = ministerial personnel = secretary and sales assostancgs = administrative activities
+
 
 Attorney General Eric Schneidermann
 
@@ -18,3 +26,7 @@ string OpportunityExemption = "Depository Institution :<"A depositors  instituti
 string aTWOb= "Bronx to financial district"
 
 <a href="Bronx to financial district : http://www.rome2rio.com/s/The-Bronx/Financial-District-NY-USA">theTwoLine</a>
+
+String agentDefinitionExclusion = "clerical AND administrative or ministerial BD employees need not be registered"
+//don't transact securities with the public, you're good.
+
